@@ -1,7 +1,7 @@
-## Welcome to Games About People
+# Welcome to Games About People
 > Drama in History
 
-[Baynard's Castle](https://github.com/kshrapnell/GAP/img/Baynard_Castle1.jpg)
+[Baynard's Castle]( https://github.com/kshrapnell/GAP/blob/main/img/Baynard_Castle1.jpeg)
 
 You can use the [editor on GitHub](https://github.com/kshrapnell/GAP/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
