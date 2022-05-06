@@ -2,7 +2,6 @@
 > Drama in History
 
 [Baynard's Castle]( https://github.com/kshrapnell/GAP/blob/main/img/Baynard_Castle1.jpeg)
-Adding some text to make a change for a changes sake
 
 You can use the [editor on GitHub](https://github.com/kshrapnell/GAP/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
