@@ -1,6 +1,7 @@
 
 ---
-title: Links
+title: list
+layout: default
 ---
 
 
