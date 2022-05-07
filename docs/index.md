@@ -1,7 +1,7 @@
 # Welcome to Games About People
 > Drama in History
 
-
+![Baynard](/img/Baynard_Castle1.jpeg)
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
 
