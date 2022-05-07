@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "docs/list.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "476b7b71ca67c790",
   "lastOpenFiles": [
+    "docs/list.md",
     "index.md",
     "_posts/seasons.md",
-    "docs/list.md",
     "docs/Old_index.md",
     "readme.md",
     "list.md",
