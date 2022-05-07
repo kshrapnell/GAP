@@ -13,7 +13,7 @@ in posts
 
 with .. links
 
-Test internal link [/posts/1_Seasons](/posts/1_Seasons)
+Test internal link [/posts/1_Seasons](/posts/1_Seasons.md)
 
 
 # Seasons, Stories & Scenes
