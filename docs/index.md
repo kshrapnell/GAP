@@ -13,6 +13,9 @@ in posts
 
 with .. links
 
+Test internal link [/posts/1_Seasons](/posts/1_Seasons)
+
+
 # Seasons, Stories & Scenes
 Passage of time is an important aspect of the game, it helps to bring context, connection and believability to the characters and their world. Establishing families, building relationships with people over a period of years and exploring the drama in passing history. To help give a framework to the game’s year, it is split into 2 game **Seasons**; Spring & Summer (Easter to Michaelmas), Autumn & Winter (Michaelmas to Easter). 
 
