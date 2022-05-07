@@ -1,6 +1,12 @@
+---
+Title: Index
+Layout: Default
+---
+
+
 new index in root
 
-[link to doc/list.md](/docs/list.md)
+[link to doc/list](/docs/list.html)
 
 after the link
 
