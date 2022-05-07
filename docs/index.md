@@ -1,11 +1,11 @@
 # Welcome to Games About People
 > Drama in History
 
-![Baynard](/img/Baynard_Castle1.jpeg)
+![Baynard](/img/Baynard_Castle.jpeg)
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
 
-[Link to Seasons](/docs/1. Seasons, Stories & Scenes copy.md)
+[Link to Seasons](/docs/1_Seasons.md)
 
 
 # Seasons, Stories & Scenes
