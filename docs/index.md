@@ -5,7 +5,7 @@
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
 
-[Link to Seasons](/docs/1. Seasons, Stories & Scenes.md)
+[Link to Seasons](/docs/1. Seasons, Stories & Scenes copy.md)
 
 
 # Seasons, Stories & Scenes
