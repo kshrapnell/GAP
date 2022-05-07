@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "476b7b71ca67c790",
   "lastOpenFiles": [
+    "index.md",
+    "readme.md",
     "docs/index.md",
     "list.md",
     "GAP/posts/1_Seasons.md",
@@ -96,7 +98,6 @@
     "docs/1_Seasons.md",
     "img/Baynard_Castles1.jpeg.md",
     "readme.md",
-    "docs/1. Seasons, Stories & Scenes copy.md",
-    "x_README.md"
+    "docs/1. Seasons, Stories & Scenes copy.md"
   ]
 }
