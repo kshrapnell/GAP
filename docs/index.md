@@ -21,12 +21,17 @@ Passage of time is an important aspect of the game, it helps to bring context, c
 
 The Spring & Summer season is the time for Stories, which is where the camera lingers on the drama as it plays out. 
 
-The seasons of Autumn & Winter are condensed into opportunities for family, chronicle or campaign scenes. These scenes are often played as vignettes, short scenes that focus on the characters, drama and changes rather than a collection of establishing scenes and pre-amble.
+\ ** The seasons of Autumn & Winter are condensed into opportunities for family, chronicle or campaign scenes. These scenes are often played as vignettes, short scenes that focus on the characters, drama and changes rather than a collection of establishing scenes and pre-amble.\
 
-**Stories** contain the situations, ‘scenarios’ or ‘adventures’ that player are involved in. They are tend to be made up of a number of **Scenes.**
+**Stories** contain the situations, ‘scenarios’ or ‘adventures’ that player are involved in. They are tend to be made up of a number of **Scenes.**[^1]
+[^1]: footnote
+
 
 A **Scene** is way to think about a chunk of playable time, sometimes these are part of a longer Story and other times, especially in the Autumn & Winter seasons they can be condensed scenes to bring focus on a single situation or decision.
 
 Minutes & Moments… [TODO]
 
 Most scenes are not time critical and can be run without concern of timekeeping. A few scenes will need more granular management, combat being a good example. In this context, scenes are broken into minutes and further broken into moments. Ten moments are considered to be a minute, and this provides a basic framework for reference more than a tactical second by second tracker.
+
+
+
