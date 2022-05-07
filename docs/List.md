@@ -1,4 +1,3 @@
-
 ---
 title: list
 layout: default
