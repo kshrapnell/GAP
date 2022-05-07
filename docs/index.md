@@ -5,8 +5,11 @@
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
 
-[trying relative with one /..](/../_posts/seasons.md)
+[trying relative with one /..](/_posts/seasons.md)
 
+[same folder doc 'list.md'](list.md)
+
+[same folder doc /list.md](/list.md)
 
 # Seasons, Stories & Scenes
 Passage of time is an important aspect of the game, it helps to bring context, connection and believability to the characters and their world. Establishing families, building relationships with people over a period of years and exploring the drama in passing history. 
