@@ -6,7 +6,7 @@ Layout: Default
 
 new index in root
 
-[link to doc/list](/docs/list.html)
+[link to doc/list](/docs/list)
 
 after the link
 
