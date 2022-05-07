@@ -15,6 +15,10 @@ with .. links
 
 Test internal link [/posts/1_Seasons](/_posts/1_Seasons.md)
 
+[trying full link](https://github.com/kshrapnell/GAP/blob/main/_posts/1_Seasons.md)
+
+[trying relative with two /..](/../../_posts/1_Seasons.md)
+
 
 # Seasons, Stories & Scenes
 Passage of time is an important aspect of the game, it helps to bring context, connection and believability to the characters and their world. Establishing families, building relationships with people over a period of years and exploring the drama in passing history. 
