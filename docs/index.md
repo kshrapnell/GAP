@@ -5,7 +5,7 @@
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
 
-[Link to Seasons](/GAP/posts/1_Seasons.md)
+[Link to Seasons](/GAP/_posts/1_Seasons.md)
 
 in posts
 
