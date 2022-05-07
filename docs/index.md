@@ -4,18 +4,16 @@
 ![Baynard](/img/Baynard_Castle.jpeg)
 ![War of Roses](https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
 
+in \_posts\
 
-[Link to Seasons](/GAP/blob/main/_posts/1_Seasons.md)
+[Link to Seasons](/_posts/1_Seasons.md)
 
-in posts
 
-[Link to List](../GAP/docs/list.md)
 
-with .. links
+[simple link to List](/list.md)
 
-Test internal link [/posts/1_Seasons](/_posts/1_Seasons.md)
 
-[trying full link](https://github.com/kshrapnell/GAP/blob/main/_posts/1_Seasons.md)
+[full link but not through jekyll](https://github.com/kshrapnell/GAP/blob/main/_posts/1_Seasons.md)
 
 [trying relative with two /..](/../../_posts/1_Seasons.md)
 
